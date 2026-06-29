@@ -1,6 +1,6 @@
 -- ============================================================
--- PROJECT 1: E-Commerce Sales & KPI Analytics
--- FILE 03: KPI Analysis (all queries power the Tableau dashboard)
+-- E-Commerce Sales & KPI Analytics
+-- 3: KPI Analysis (all queries power the Tableau dashboard)
 -- ============================================================
 
 -- ============================================================
