@@ -1,6 +1,6 @@
 -- ============================================================
 -- E-Commerce Sales & KPI Analytics
--- Dataset: Olist Brazilian E-Commerce (Kaggle)
+-- 1 Dataset: Olist Brazilian E-Commerce (Kaggle)
 -- Tool: MySQL / PostgreSQL compatible
 -- ============================================================
 -- STEP 1: Create database and tables
