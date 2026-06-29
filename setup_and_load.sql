@@ -1,6 +1,5 @@
 -- ============================================================
--- PROJECT 1: E-Commerce Sales & KPI Analytics
--- Role: Data Analyst
+-- E-Commerce Sales & KPI Analytics
 -- Dataset: Olist Brazilian E-Commerce (Kaggle)
 -- Tool: MySQL / PostgreSQL compatible
 -- ============================================================
